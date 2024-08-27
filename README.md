@@ -11,4 +11,4 @@ Currently, two official plugins are available:
 
 ## Output
 
-![Alt Text](./preview.png)
+![Project ScreenShot]([./preview.png](https://github.com/shiwamshahare/draggable_cards/blob/main/public/preview.png))
